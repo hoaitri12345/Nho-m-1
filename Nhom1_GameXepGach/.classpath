@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Nhom1_GameXepGach/Nhom1_GameXepGach/src"/>
+	<classpathentry kind="lib" path="Nhom1_GameXepGach/Nhom1_GameXepGach/dist/GameXepGach.jar"/>
+	<classpathentry kind="output" path="Nhom1_GameXepGach/Nhom1_GameXepGach/build/classes"/>
+</classpath>
